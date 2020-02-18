@@ -21,15 +21,15 @@
     "not ie <= 8"
   ],
   "devDependencies": {
-    "babel-core": "^6.26.0",
-    "babel-loader": "^7.1.2",
+    "@babel/core": "7.8.4",
+    "babel-loader": "8.0.6",
     "babel-preset-env": "^1.6.0",
-    "babel-preset-stage-3": "^6.24.1",
+    "babel-preset-vue": "2.0.2",
     "cross-env": "^5.0.5",
     "css-loader": "^0.28.7",
     "file-loader": "^1.1.4",
-    "vue-loader": "^13.0.5",
-    "vue-template-compiler": "^2.4.4",
+    "vue-loader": "15.9.0",
+    "vue-template-compiler": "2.6.11",
     "webpack": "^3.6.0",
     "webpack-dev-server": "^2.9.1"
   }
